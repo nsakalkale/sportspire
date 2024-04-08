@@ -1,0 +1,23 @@
+body {
+}
+@font-face {
+  font-family: Poppins;
+  src: url("./fonts/Poppins/Poppins-Regular.ttf");
+}
+@font-face {
+  font-family: Stylish;
+  src: url("./fonts/Stylish/Stylish-Regular.ttf");
+}
+@font-face {
+  font-family: NewRocker;
+  src: url("./fonts/NewRocker/NewRocker-Regular.ttf");
+}
+.poppins {
+  font-family: "Poppins";
+}
+.stylish {
+  font-family: "Stylish";
+}
+.newrocker {
+  font-family: "NewRocker";
+}
